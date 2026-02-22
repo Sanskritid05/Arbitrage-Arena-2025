@@ -162,4 +162,3 @@ Arbitrage Arena 2026 – Prelims Submission
 
 The portfolio is constructed using a **Risk Parity strategy**, where asset weights are determined by inverse volatility rather than expected returns.
 
-### Risk Parity Weight Formula
