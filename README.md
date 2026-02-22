@@ -158,7 +158,7 @@ The portfolio demonstrates **stable risk-adjusted performance** across long-term
 
 ## 👤 Author
 **Sanskriti Dutta**  
-Arbitrage Arena 2026 – Prelims Submission
+Arbitrage Arena 2025 – Prelims Submission
 
 The portfolio is constructed using a **Risk Parity strategy**, where asset weights are determined by inverse volatility rather than expected returns.
 
