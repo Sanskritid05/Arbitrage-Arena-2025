@@ -33,7 +33,7 @@ The portfolio spans **equities, indices, and commodities**, emphasizing balanced
 ## 🧠 Data Preprocessing
 - Timestamp standardization and alignment  
 - Numeric conversion of OHLC values  
-- Missing value handling using forward and backward fill  
+- Missing value handling   
 - OHLC price visualization for validation  
 - Computation of daily and log returns  
 
