@@ -130,8 +130,6 @@ The portfolio demonstrates **stable risk-adjusted performance** across long-term
 ### 30-Days Rolling Volatility Analysis
 <img src="https://raw.githubusercontent.com/Sanskritid05/Arbitrage-Arena-2025/3365b00e22ecad597bc87f240128698cdc0e25ac/Screenshot%202026-02-22%20125509.png" width="800">
 
-*(Upload charts generated from the notebook into an `images/` folder)*
-
 ---
 
 ## 🛠 Tools & Technologies
